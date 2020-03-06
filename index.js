@@ -12,7 +12,7 @@ var sceneStartRotation = { y: TAU/6.7 };
 
 let illo = new Zdog.Illustration({
   element: '.zdog-duck',
-  zoom: 10,
+  zoom: 5,
   dragRotate: true,
   rotate: { y: TAU/6.7 },
   translate: undefined,
