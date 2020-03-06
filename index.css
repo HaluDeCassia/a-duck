@@ -13,6 +13,10 @@ body {
   text-align: center;
 }
 
+p span, span {
+  font-size: 14px;
+}
+
 button {
   background: #bd5206;
   border: none;
